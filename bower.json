@@ -1,0 +1,25 @@
+{
+  "name": "country-tz",
+  "description": "A simple JS helper function that provides countries and timezones infomation.",
+  "main": "index.js",
+  "authors": [
+    "wbiz"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "country",
+    "timezone",
+    "geo"
+  ],
+  "homepage": "https://github.com/wbiz/country-tz",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
